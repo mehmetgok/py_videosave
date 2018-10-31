@@ -12,6 +12,6 @@ Bu örneklerin çalışabilmesi için üzerinde çalışılan Linux dağıtımı
 
 Bu komut çıktısını son satırı şu şekildedir:
 ```
-DEV.L. hevc                 H.265 / HEVC (High Efficiency Video Coding) (encoders: libx265 nvenc_hevc hevc_nvenc hevc_vaapi )
+DEV.L. hevc H.265 / HEVC (High Efficiency Video Coding) (encoders: libx265 nvenc_hevc hevc_nvenc hevc_vaapi )
 ```
 Bu çıktıda ***DE*** ifadesi hem Decode hem de Encode işlemlerinin yapılabildiğini göstermektedir.
