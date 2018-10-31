@@ -1,4 +1,4 @@
-# Python ile Video OpenCV kullanarak video oluşturma (py_videosave)
+# Python ve OpenCV ile video oluşturma (py_videosave)
 
 ###### videosave_cv.py:
 
