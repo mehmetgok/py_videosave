@@ -11,7 +11,7 @@ Bu örneklerin çalışabilmesi için üzerinde çalışılan Linux dağıtımı
 > ffmpeg -codecs |grep x265
 
 Bu komut çıktısını son satırı şu şekildedir:
-'''
+```
 DEV.L. hevc                 H.265 / HEVC (High Efficiency Video Coding) (encoders: libx265 nvenc_hevc hevc_nvenc hevc_vaapi )
-'''
+```
 Bu çıktıda ***DE*** ifadesi hem Decode hem de Encode işlemlerinin yapılabildiğini göstermektedir.
